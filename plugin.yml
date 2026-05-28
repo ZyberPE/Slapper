@@ -1,7 +1,7 @@
 name: Slapper
 author: [Vecnavium, jojoe77777]
 version: 3.0.0
-description: Slapper, the NPC plugin for PocketMine-MP
+description: Slapper, the NPC plugin for PocketMine-MP for api 5
 main: slapper\Main
 api: 5.0.0
 
